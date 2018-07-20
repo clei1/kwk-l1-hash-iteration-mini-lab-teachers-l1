@@ -20,5 +20,5 @@ def iterate_through_hash
 end
 
 def iterate_through_keys
-  add_a_key_value_pair
+  add_a_key_value_pair.example_status_persistence_file_path
 end
