@@ -18,9 +18,3 @@ def iterate_through_hash
     puts "The #{city} summer olympics took place in #{year}."
   end
 end
-
-def iterate_through_keys
-  # Implement this method so that it converts the keys of the hash created in add_a_key_value_pair
-  # into uppercased Strings, creates a new array with these values, and then puts each upcase key in the CLI
-  add_a_key_value_pair.keys
-end
