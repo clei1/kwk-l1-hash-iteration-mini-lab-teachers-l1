@@ -20,5 +20,5 @@ def iterate_through_hash
 end
 
 def iterate_through_keys
-  add_a_key_value_pair.example_status_persistence_file_path
+  add_a_key_value_pair.each_key.each{ |x| puts x.upcase}
 end
