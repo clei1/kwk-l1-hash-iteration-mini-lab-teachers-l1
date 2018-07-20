@@ -18,3 +18,7 @@ def iterate_through_hash
     puts "The #{city} summer olympics took place in #{year}."
   end
 end
+
+def iterate_through_keys
+  
+end
