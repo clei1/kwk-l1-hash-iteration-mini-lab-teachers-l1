@@ -47,7 +47,7 @@ describe "iterate_through_hash" do
   end
 end
 
-describe "iterate_through_hash" do
+describe "iterate_through_keys" do
   it 'iterates over each key, creating a new array of upcased city names, then puts these names on the CLI' do
     expectation = expect {
       iterate_through_keys
